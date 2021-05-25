@@ -69,6 +69,11 @@ header{
 	}
 }
 
+header nav .right .btn a{
+	text-decoration: none;
+	color: var(--pure);
+}
+
 header nav .left a{
 	color:var(--pure);
 	text-decoration: none;
@@ -289,6 +294,11 @@ section.freelancer h1{
 	margin-bottom: 0.5rem;
 
 
+}
+
+section.freelancer .btn a{
+	text-decoration: none;
+	color: var(--pure);
 }
 
 section.freelancer p{
